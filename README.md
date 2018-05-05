@@ -6,7 +6,7 @@ If you do this regularly, I suggest also getting [f.lux](https://justgetflux.com
 
 ## Screenshot
 
-![](https://raw.githubusercontent.com/keatsdothu/summer_nights_vscode_theme/master/summer_nights_lullaby_v1_screenie.png).
+![](https://raw.githubusercontent.com/keatsdothu/summer_nights_lullaby_vscode_theme/master/summer_nights_lullaby_v1_screenie.png).
 
 ## Links
 
