@@ -10,5 +10,5 @@ If you do this regularly, I suggest also getting [f.lux](https://justgetflux.com
 
 ## Links
 
-* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=keatsdothu.summer-nights)
-* [GitHub repository](https://github.com/keatsdothu/summer_nights_vscode_theme)
+* [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=keatsdothu.summer-nights-lullaby)
+* [GitHub repository](https://github.com/keatsdothu/summer_nights_lullaby_vscode_theme)
