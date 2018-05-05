@@ -1,0 +1,26 @@
+{
+  "name": "summer-nights-lullaby",
+  "displayName": "Summer Nights Lullaby",
+  "description":
+    "Dark theme with strongly reduced blue light for those late-night coding sessions when you're planning to go to sleep right after. If you do this regularly, I suggest also getting f.lux (https://justgetflux.com/) which adjusts color temps system-wide automatically, based on the current position of the sun at your GPS coordinates.",
+  "version": "1.0.0",
+  "publisher": "keatsdothu",
+  "repository": {
+    "type": "git",
+    "url":
+      "https://github.com/keatsdothu/summer_nights_lullaby_vscode_theme.git"
+  },
+  "engines": {
+    "vscode": "^1.23.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Summer Nights Lullaby",
+        "uiTheme": "vs-dark",
+        "path": "./themes/summer-nights-lullaby-color-theme.json"
+      }
+    ]
+  }
+}
