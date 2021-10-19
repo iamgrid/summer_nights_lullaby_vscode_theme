@@ -3,7 +3,7 @@
   "type": "dark",
   "colors": {
     "focusBorder": "#6e4611",
-    "selection.background": "#ccccc7",
+    "selection.background": "#344352",
     "scrollbarSlider.background": "#66460060",
     "scrollbarSlider.activeBackground": "#f09c0060",
     "scrollbarSlider.hoverBackground": "#f09c0060",
@@ -138,41 +138,10 @@
       }
     },
     {
-      "name": "Comment",
-      "scope": "comment",
-      "settings": {
-        "foreground": "#75715E"
-      }
-    },
-    {
-      "name": "String",
-      "scope": "string",
-      "settings": {
-        "foreground": "#E6DB74"
-      }
-    },
-    {
-      "name": "Template Definition",
-      "scope": [
-        "punctuation.definition.template-expression",
-        "punctuation.section.embedded"
-      ],
-      "settings": {
-        "foreground": "#F92672"
-      }
-    },
-    {
       "name": "Reset JavaScript string interpolation expression",
       "scope": ["meta.template.expression"],
       "settings": {
         "foreground": "#F8F8F2"
-      }
-    },
-    {
-      "name": "Number",
-      "scope": "constant.numeric",
-      "settings": {
-        "foreground": "#AE81FF"
       }
     },
     {
@@ -434,37 +403,6 @@
       "scope": "variable.language",
       "settings": {
         "foreground": "#FD971F"
-      }
-    },
-    {
-      "name": "Comment",
-      "scope": "comment",
-      "settings": {
-        "foreground": "#6A6A68"
-      }
-    },
-    {
-      "name": "String",
-      "scope": "string",
-      "settings": {
-        "foreground": "#E6DB74"
-      }
-    },
-    {
-      "name": "Template Definition",
-      "scope": [
-        "punctuation.definition.template-expression",
-        "punctuation.section.embedded"
-      ],
-      "settings": {
-        "foreground": "#e8ffb1"
-      }
-    },
-    {
-      "name": "Number",
-      "scope": "constant.numeric",
-      "settings": {
-        "foreground": "#F59D0A"
       }
     },
     {
